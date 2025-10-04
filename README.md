@@ -42,7 +42,7 @@ Actualmente estoy enfocando mi desarrollo en:
 ---
 
 ## 📫 Conectemos
-- 💼 [LinkedIn](www.linkedin.com/in/javier-ignacio-medina-muñoz)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/javier-ignacio-medina-muñoz)  
 - 🧑‍💻 [GitHub](https://github.com/jimm212)  
 - ✉️ **Correo:** medinajavier297@gmail.com
 
