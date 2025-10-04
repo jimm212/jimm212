@@ -1,4 +1,4 @@
-# ⚙️ Javier — Ingeniero en Automatización & Desarrollador Full Stack  
+# ⚙️ Javier — Ingeniero en Automatización & Desarrollador ML y Full Stack  
 
 > _“Transformando sistemas, datos y hábitos en inteligencia aplicada.”_
 
